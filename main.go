@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"peulerm35s/multieuler"
+	"./multieuler"
 )
 
 func main() {
