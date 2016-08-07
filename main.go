@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./multieuler"
+	"github.com/oldspiceland/peuler-m35s/multieuler"
 )
 
 func main() {
