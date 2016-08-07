@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	multieuler.multiples(3, 5, 1000)
+	multieuler.Multiples(3, 5, 1000)
 }
