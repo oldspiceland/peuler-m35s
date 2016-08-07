@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"multieuler"
+	"multieuler/multieuler"
 )
 
 func main() {
